@@ -1,0 +1,3439 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ZONEAMENTO_2015" id="ZONEAMENTO_2015">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="TEMA" type="string"></SimpleField>
+	<SimpleField name="NM_GRUPO" type="string"></SimpleField>
+	<SimpleField name="CD_ZONA" type="string"></SimpleField>
+	<SimpleField name="NM_ZONA" type="string"></SimpleField>
+	<SimpleField name="SG_ZONA" type="string"></SimpleField>
+	<SimpleField name="LEGISLACAO" type="string"></SimpleField>
+	<SimpleField name="DATA_ATUAL" type="string"></SimpleField>
+	<SimpleField name="DATA_VERSA" type="string"></SimpleField>
+	<SimpleField name="SHAPE_AREA" type="float"></SimpleField>
+	<SimpleField name="SHAPE_LEN" type="float"></SimpleField>
+</Schema>
+<Folder><name>ZONEAMENTO_2015</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS INDUSTRIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">20</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA INDUSTRIAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZI</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3667966.42976000020</SimpleData>
+		<SimpleData name="SHAPE_LEN">14800.58245000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE TRANSI??O</SimpleData>
+		<SimpleData name="CD_ZONA">21</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O NOVA CURITIBA</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-NC</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3918290.64252999984</SimpleData>
+		<SimpleData name="SHAPE_LEN">14519.35966300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">2376578.90225999989</SimpleData>
+		<SimpleData name="SHAPE_LEN">10081.20664000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">5</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 ??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1184846.76640999992</SimpleData>
+		<SimpleData name="SHAPE_LEN">7897.83209400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS DOS EIXOS DE ADENSAMENTO</SimpleData>
+		<SimpleData name="CD_ZONA">83</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL PRES. AFFONSO CAMARGO</SimpleData>
+		<SimpleData name="SG_ZONA">SE-AC</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1080148.75967000006</SimpleData>
+		<SimpleData name="SHAPE_LEN">6976.11676700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">3</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 2??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">5475203.28498999961</SimpleData>
+		<SimpleData name="SHAPE_LEN">15052.80998500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">7</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 1</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1415492.53239000007</SimpleData>
+		<SimpleData name="SHAPE_LEN">8537.63559900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS DOS EIXOS DE ADENSAMENTO</SimpleData>
+		<SimpleData name="CD_ZONA">81</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL COMENDADOR FRANCO</SimpleData>
+		<SimpleData name="SG_ZONA">SE-CF</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1885966.94286000007</SimpleData>
+		<SimpleData name="SHAPE_LEN">14093.50510700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">776654.77329000004</SimpleData>
+		<SimpleData name="SHAPE_LEN">3595.93058900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">15</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL ESTRUTURAL</SimpleData>
+		<SimpleData name="SG_ZONA">SE</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">276536.45009000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">3713.63370700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">8</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 2</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">835511.94840999995</SimpleData>
+		<SimpleData name="SHAPE_LEN">5930.04136700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">32</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL MILITAR</SimpleData>
+		<SimpleData name="SG_ZONA">ZE-M</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1755128.23726000008</SimpleData>
+		<SimpleData name="SHAPE_LEN">6398.30695600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">3</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 2??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">5941984.72687999997</SimpleData>
+		<SimpleData name="SHAPE_LEN">13756.03742000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">6000425.91392000020</SimpleData>
+		<SimpleData name="SHAPE_LEN">18587.59729900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">22</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL LINH?O DO EMPREGO</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LE</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3115578.51184999989</SimpleData>
+		<SimpleData name="SHAPE_LEN">16777.52657900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">15</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL ESTRUTURAL</SimpleData>
+		<SimpleData name="SG_ZONA">SE</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">4693055.99720999971</SimpleData>
+		<SimpleData name="SHAPE_LEN">27099.96822200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">8</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 2</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">2205758.53183000023</SimpleData>
+		<SimpleData name="SHAPE_LEN">7524.27448800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">2665621.45092000021</SimpleData>
+		<SimpleData name="SHAPE_LEN">15539.97524500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONA CENTRAL</SimpleData>
+		<SimpleData name="CD_ZONA">6</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA CENTRAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZC</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1988040.01897999994</SimpleData>
+		<SimpleData name="SHAPE_LEN">7697.90517000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">13592458.98550000042</SimpleData>
+		<SimpleData name="SHAPE_LEN">22603.93208900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">104441.44116000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1625.73653700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">32</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL MILITAR</SimpleData>
+		<SimpleData name="SG_ZONA">ZE-M</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">2276306.02780999988</SimpleData>
+		<SimpleData name="SHAPE_LEN">7657.99600000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">2</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 1??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1534907.76261000009</SimpleData>
+		<SimpleData name="SHAPE_LEN">5597.19374900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">7</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 1</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">4286316.49156999961</SimpleData>
+		<SimpleData name="SHAPE_LEN">10930.98473500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">3</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 2??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">15404066.13379999995</SimpleData>
+		<SimpleData name="SHAPE_LEN">19891.59028700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">2</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 1??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">898441.51884000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">3818.23291900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">11</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL SANTA FELICIDADE</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-SF</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">10172412.29590000026</SimpleData>
+		<SimpleData name="SHAPE_LEN">21777.30328400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1214412.61978000007</SimpleData>
+		<SimpleData name="SHAPE_LEN">6337.24072500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">48225.72466000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1014.64413500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">3</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 2??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3137246.38658999978</SimpleData>
+		<SimpleData name="SHAPE_LEN">7684.67727300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">25</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL DE OCUPA??O CONTROLADA</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-OC</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3441663.17162000015</SimpleData>
+		<SimpleData name="SHAPE_LEN">12383.52543800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS INDUSTRIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">20</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA INDUSTRIAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZI</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">5022578.22580999974</SimpleData>
+		<SimpleData name="SHAPE_LEN">10894.07075000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1142989.81122000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">5297.71883500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">10</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL UMBAR?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-U</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">5043546.35252000019</SimpleData>
+		<SimpleData name="SHAPE_LEN">14962.12899500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">18</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL COMERCIAL DE SANTA FELICIDADE</SimpleData>
+		<SimpleData name="SG_ZONA">SC-SF</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">385464.15549999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">4854.43429400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS INDUSTRIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">20</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA INDUSTRIAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZI</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1058617.37348999991</SimpleData>
+		<SimpleData name="SHAPE_LEN">4456.80012700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS INDUSTRIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">20</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA INDUSTRIAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZI</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">728420.80550999998</SimpleData>
+		<SimpleData name="SHAPE_LEN">4623.58710100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">33</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL NOVA CURITIBA</SimpleData>
+		<SimpleData name="SG_ZONA">SE-NC</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1616120.79300999991</SimpleData>
+		<SimpleData name="SHAPE_LEN">11734.30856500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS INDUSTRIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">20</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA INDUSTRIAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZI</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1551933.38495000009</SimpleData>
+		<SimpleData name="SHAPE_LEN">5214.54538200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3147302.85105000017</SimpleData>
+		<SimpleData name="SHAPE_LEN">12315.34962600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3180774.08379000006</SimpleData>
+		<SimpleData name="SHAPE_LEN">12489.23753800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">8</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 2</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">8621969.03490000032</SimpleData>
+		<SimpleData name="SHAPE_LEN">29659.81481800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">8</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 2</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">650315.02823000005</SimpleData>
+		<SimpleData name="SHAPE_LEN">8202.74042200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">5</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 ??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">548682.28702000005</SimpleData>
+		<SimpleData name="SHAPE_LEN">4164.87632200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">5</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 ??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">708562.53341999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">4560.50338400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">2</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 1??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">2139865.42513999995</SimpleData>
+		<SimpleData name="SHAPE_LEN">9302.72742500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">2</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 1??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">984710.81148000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">6620.76162400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">2</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 1??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">460371.66652999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">5206.37007800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">3</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 2??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1660538.99845999992</SimpleData>
+		<SimpleData name="SHAPE_LEN">6410.99216200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS INDUSTRIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">20</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA INDUSTRIAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZI</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">363192.63718999998</SimpleData>
+		<SimpleData name="SHAPE_LEN">3423.56076200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1474896.57899000007</SimpleData>
+		<SimpleData name="SHAPE_LEN">6766.96276900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">10</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL UMBAR?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-U</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">355962.52217000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">2342.30198800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">8</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 2</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">360648.58210000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">3373.86555200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">950733.65656000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">4838.76202300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">862224.64613999997</SimpleData>
+		<SimpleData name="SHAPE_LEN">4012.37348200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">94154.05863000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1642.19308800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">7</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 1</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1172066.76667999988</SimpleData>
+		<SimpleData name="SHAPE_LEN">10525.51921300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3680446.68092000019</SimpleData>
+		<SimpleData name="SHAPE_LEN">10825.80251400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">27</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL MERC?S</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-M</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">123561.10778000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">1891.95530000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE TRANSI??O</SimpleData>
+		<SimpleData name="CD_ZONA">21</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O MARECHAL FLORIANO</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-MF</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1783976.82597999997</SimpleData>
+		<SimpleData name="SHAPE_LEN">8019.39907800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">2</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 1??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">744470.32253999996</SimpleData>
+		<SimpleData name="SHAPE_LEN">4100.24270600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">13</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL HIST?RICO</SimpleData>
+		<SimpleData name="SG_ZONA">SH</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">242801.02731999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">3135.58713300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE TRANSI??O</SimpleData>
+		<SimpleData name="CD_ZONA">21</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O MARECHAL FLORIANO</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-MF</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">511660.84857999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">3688.62212800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">32</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL MILITAR</SimpleData>
+		<SimpleData name="SG_ZONA">ZE-M</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">728577.01843000005</SimpleData>
+		<SimpleData name="SHAPE_LEN">4060.21971800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS DOS EIXOS DE ADENSAMENTO</SimpleData>
+		<SimpleData name="CD_ZONA">80</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL MARECHAL FLORIANO</SimpleData>
+		<SimpleData name="SG_ZONA">SE-MF</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">542559.68845999998</SimpleData>
+		<SimpleData name="SHAPE_LEN">5521.95171400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">16</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL CONECTOR</SimpleData>
+		<SimpleData name="SG_ZONA">CONEC-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">517520.23884000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">4433.46499600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">16</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL CONECTOR</SimpleData>
+		<SimpleData name="SG_ZONA">CONEC-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">964659.60517999995</SimpleData>
+		<SimpleData name="SHAPE_LEN">6209.46243100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">7</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 1</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">348090.61047999997</SimpleData>
+		<SimpleData name="SHAPE_LEN">3427.49536600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS DOS EIXOS DE ADENSAMENTO</SimpleData>
+		<SimpleData name="CD_ZONA">80</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL MARECHAL FLORIANO</SimpleData>
+		<SimpleData name="SG_ZONA">SE-MF</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1272853.90736999991</SimpleData>
+		<SimpleData name="SHAPE_LEN">12162.35002300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">210099.17804999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">10661.65529000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">2</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 1??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">523439.44510999997</SimpleData>
+		<SimpleData name="SHAPE_LEN">3016.88418100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">25</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL DE OCUPA??O CONTROLADA</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-OC</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">4909161.20330000017</SimpleData>
+		<SimpleData name="SHAPE_LEN">13589.85513600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">750618.01385999995</SimpleData>
+		<SimpleData name="SHAPE_LEN">4210.63158700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">25</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL DE OCUPA??O CONTROLADA</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-OC</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">13880267.58540000021</SimpleData>
+		<SimpleData name="SHAPE_LEN">19475.53622100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS DOS EIXOS DE ADENSAMENTO</SimpleData>
+		<SimpleData name="CD_ZONA">84</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL ENGENHEIRO COSTA BARROS</SimpleData>
+		<SimpleData name="SG_ZONA">SE-CB</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">250596.40607000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">5748.90885800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">14</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL PASSA?NA</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-P</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">323600.77918000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">6785.59750600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1692578.68852999993</SimpleData>
+		<SimpleData name="SHAPE_LEN">5198.31837900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3557083.83789000008</SimpleData>
+		<SimpleData name="SHAPE_LEN">11979.80910000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">5</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 ??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3337538.70713000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">14380.90330200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">5</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 ??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">4529496.76305999979</SimpleData>
+		<SimpleData name="SHAPE_LEN">19498.16893100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">5</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 ??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3745473.09788999986</SimpleData>
+		<SimpleData name="SHAPE_LEN">17561.01185900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">30</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE OCUPA??O INTEGRADA</SimpleData>
+		<SimpleData name="SG_ZONA">SE-OI</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">10080331.20910000056</SimpleData>
+		<SimpleData name="SHAPE_LEN">16734.96658500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">133688.85509999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1722.53357200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">116091.99608000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2242.50307200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">86640.26448000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1207.45556000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">30</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE OCUPA??O INTEGRADA</SimpleData>
+		<SimpleData name="SG_ZONA">SE-OI</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000 - DECRETO N? 887 / 2004</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">886507.27555000002</SimpleData>
+		<SimpleData name="SHAPE_LEN">4325.24654400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">15</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL ESTRUTURAL</SimpleData>
+		<SimpleData name="SG_ZONA">SE</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1492361.63133000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">13317.55092000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">7</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 1</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">538592.14295000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">10207.73962900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">156</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">173692.31000000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2139.10943200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">84412.79184999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1245.96796500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">270828.05593999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">2272.94685000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">32</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL EDUCACIONAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZE-E</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1617971.89959999989</SimpleData>
+		<SimpleData name="SHAPE_LEN">6290.63209500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1187071.51961999992</SimpleData>
+		<SimpleData name="SHAPE_LEN">5214.12497500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">2804186.38102999981</SimpleData>
+		<SimpleData name="SHAPE_LEN">10758.29116700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">5</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 ??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1931210.71775999991</SimpleData>
+		<SimpleData name="SHAPE_LEN">6901.69775900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS INDUSTRIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">20</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA INDUSTRIAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZI</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1192842.31012000004</SimpleData>
+		<SimpleData name="SHAPE_LEN">7361.01242600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">135</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">15</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL ESTRUTURAL</SimpleData>
+		<SimpleData name="SG_ZONA">SE</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">509205.32475999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">5066.32852300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">7</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 1</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1711252.88075000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">12385.05783800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">8</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 2</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">152334.14332000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2549.87692000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">12</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL BATEL</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-B</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">859906.12925999996</SimpleData>
+		<SimpleData name="SHAPE_LEN">3988.08946700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">28</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL ALTO DA GL?RIA</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-AG</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">79332.56221000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1459.95822200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">17</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DO CENTRO C?VICO</SimpleData>
+		<SimpleData name="SG_ZONA">SE-CC</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">961201.92302999995</SimpleData>
+		<SimpleData name="SHAPE_LEN">6118.33838900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">31</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL INSTITUCIONAL</SimpleData>
+		<SimpleData name="SG_ZONA">SE-I</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">367238.44186000002</SimpleData>
+		<SimpleData name="SHAPE_LEN">2924.95388400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">18</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL COMERCIAL DO UMBAR?</SimpleData>
+		<SimpleData name="SG_ZONA">SC-UM</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">415346.15059999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">2638.16300200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">5</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 ??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">386342.08231000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">3104.60472000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">36</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL RESIDENCIAL - ?REAS VERDES - CIC</SimpleData>
+		<SimpleData name="SG_ZONA">SER-CIC</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000 - DECRETO N? 195 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">165766.50936000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1745.65177100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE TRANSI??O</SimpleData>
+		<SimpleData name="CD_ZONA">21</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O NOVA CURITIBA</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-NC</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">628341.45230999996</SimpleData>
+		<SimpleData name="SHAPE_LEN">10716.26047700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">16</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL CONECTOR</SimpleData>
+		<SimpleData name="SG_ZONA">CONEC-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">511470.87938000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">5203.47100200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE USO MISTO</SimpleData>
+		<SimpleData name="CD_ZONA">24</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE USO MISTO</SimpleData>
+		<SimpleData name="SG_ZONA">ZUM</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1430587.12953000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">8531.49916600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE USO MISTO</SimpleData>
+		<SimpleData name="CD_ZONA">24</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE USO MISTO</SimpleData>
+		<SimpleData name="SG_ZONA">ZUM</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">209333.45804000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2153.74947500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">19</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DO P?LO DE SOFTWARE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-PS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">488683.08876999997</SimpleData>
+		<SimpleData name="SHAPE_LEN">3377.43841300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">9</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL DE SERVI?OS</SimpleData>
+		<SimpleData name="SG_ZONA">ZES</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">128890.99928000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2888.10474600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE SERVI?OS</SimpleData>
+		<SimpleData name="CD_ZONA">7</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 1</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">247344.04772000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">3794.69871400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">?REA DE PROTE??O AMBIENTAL DO IGUA?U</SimpleData>
+		<SimpleData name="CD_ZONA">34</SimpleData>
+		<SimpleData name="NM_ZONA">APA DO IGUA?U</SimpleData>
+		<SimpleData name="SG_ZONA">APA-IGUA?U</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">41376291.39400000125</SimpleData>
+		<SimpleData name="SHAPE_LEN">102102.75445100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS DE USO MISTO</SimpleData>
+		<SimpleData name="CD_ZONA">24</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE USO MISTO</SimpleData>
+		<SimpleData name="SG_ZONA">ZUM</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">388836.12378999998</SimpleData>
+		<SimpleData name="SHAPE_LEN">7769.04123700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">16</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL CONECTOR</SimpleData>
+		<SimpleData name="SG_ZONA">CONEC-4</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1743980.58003999991</SimpleData>
+		<SimpleData name="SHAPE_LEN">11267.42859200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">3</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 2??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">5222099.91949999984</SimpleData>
+		<SimpleData name="SHAPE_LEN">13792.46194100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">3</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 2??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">6130419.29059999995</SimpleData>
+		<SimpleData name="SHAPE_LEN">16451.16868300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">187</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">576982.06876000005</SimpleData>
+		<SimpleData name="SHAPE_LEN">4044.06667000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">179</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">386924.63575000002</SimpleData>
+		<SimpleData name="SHAPE_LEN">3313.03089500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">181</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">185</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL DESPORTIVA - LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZE-D-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">2679752.58865999989</SimpleData>
+		<SimpleData name="SHAPE_LEN">8007.33929200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">184</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">167</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE SERVI?OS 2 - LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZS-2-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1150120.64510000008</SimpleData>
+		<SimpleData name="SHAPE_LEN">7335.44957200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">186</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">182</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 - LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">127320.96643000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1872.24889600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">190</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">178481.20376999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">2089.08231800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">192</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">255416.26298000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2836.13691200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">193</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">332588.38621999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">2574.58812700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">194</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">2457702.33314999985</SimpleData>
+		<SimpleData name="SHAPE_LEN">12087.78062400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">195</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">3</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 2??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">5155900.23806999996</SimpleData>
+		<SimpleData name="SHAPE_LEN">12130.26973400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">197</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS INDUSTRIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">20</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA INDUSTRIAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZI</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">9703018.19060000032</SimpleData>
+		<SimpleData name="SHAPE_LEN">19664.18985600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">188</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">268002.47538000002</SimpleData>
+		<SimpleData name="SHAPE_LEN">2266.35969100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">189</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3663967.98139999993</SimpleData>
+		<SimpleData name="SHAPE_LEN">21337.60913200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">191</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">751788.99997000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">4070.25099100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">200</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1382059.86030000006</SimpleData>
+		<SimpleData name="SHAPE_LEN">5969.19383400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">196</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">5</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 ??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">5536766.64209000021</SimpleData>
+		<SimpleData name="SHAPE_LEN">26387.28792200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">202</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">677242.53856000002</SimpleData>
+		<SimpleData name="SHAPE_LEN">3710.70491900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">204</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">481276.34571000002</SimpleData>
+		<SimpleData name="SHAPE_LEN">3536.87151700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">206</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">32</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL DESPORTIVA</SimpleData>
+		<SimpleData name="SG_ZONA">ZE-D</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 11997 / 2006</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">77877.25193000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1092.93394500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">207</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">32</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL DESPORTIVA</SimpleData>
+		<SimpleData name="SG_ZONA">ZE-D</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 11997 / 2006</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">67252.57657999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1092.86950900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">208</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">32</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL DESPORTIVA</SimpleData>
+		<SimpleData name="SG_ZONA">ZE-D</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 11997 / 2006</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">98962.45329999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1260.56083900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">209</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">32</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL DESPORTIVA</SimpleData>
+		<SimpleData name="SG_ZONA">ZE-D</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 11997 / 2006</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">70875.96765000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">1064.51762500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">198</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">5537179.70894999988</SimpleData>
+		<SimpleData name="SHAPE_LEN">10748.49795000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">199</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS DOS EIXOS DE ADENSAMENTO</SimpleData>
+		<SimpleData name="CD_ZONA">82</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL PRES. WENCESLAU BRAZ</SimpleData>
+		<SimpleData name="SG_ZONA">SE-WB</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1336824.72943999991</SimpleData>
+		<SimpleData name="SHAPE_LEN">8284.29753900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">264</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">168641.59333999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">2223.09987000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">265</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">21156.54386000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">704.99852500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">266</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">23914.69064000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">993.62946500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">267</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">47275.78821000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">844.53499100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">268</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">97845.59402999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1306.50409900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">269</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">10541.34501000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">665.93496600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">270</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">74872.44665000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1171.58700600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">271</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">219377.28782000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">4198.90882300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">272</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">141720.97085000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">2247.14252000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">263</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">12726.16845000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">508.52735900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">275</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">137853.48178000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2398.69383400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">277</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">21802.04577000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">673.23601100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">201</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">32</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA ESPECIAL EDUCACIONAL</SimpleData>
+		<SimpleData name="SG_ZONA">ZE-E</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">510248.33020000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">3503.01679100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">246</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DO PARQUE TANGU?</SimpleData>
+		<SimpleData name="SG_ZONA">SE-PT</SimpleData>
+		<SimpleData name="LEGISLACAO">DECRETO N? 673 / 2002</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">962665.67549000005</SimpleData>
+		<SimpleData name="SHAPE_LEN">10518.07703700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">254</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">243182.61330000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2978.99040000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">255</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">43530.42153000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1257.26769500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">256</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">32419.07585000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1011.76068700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">257</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">103519.43090000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">1542.97937500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">258</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">8262.98335000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">467.50825500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">259</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">37734.83975000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1374.31382500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">260</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">68951.65373999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1470.67225000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">261</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">245697.62643999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">2862.72451300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">262</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">133737.80525000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1643.06494900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">154</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1136112.94506999990</SimpleData>
+		<SimpleData name="SHAPE_LEN">5474.54222200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">4176842.61962000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">16699.81805500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1006263.62794000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">5980.09130500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">477664.64627000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">4677.49082400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">161</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">215975.47659000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">2344.27315200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">164</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">289974.57347000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2550.12866700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">167</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">319725.53392000002</SimpleData>
+		<SimpleData name="SHAPE_LEN">3681.32602200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">160</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">396332.10573000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">3485.04549000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">162</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1626169.94759000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">11996.84121200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">163</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">583119.21631000005</SimpleData>
+		<SimpleData name="SHAPE_LEN">3709.86445800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">165</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">187402.40974000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2383.64812100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">166</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">671699.64916999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">8276.49878200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">171</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">137491.34294999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1778.46511200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">172</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">279085.92632000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">2820.40621900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">174</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">728209.47681000002</SimpleData>
+		<SimpleData name="SHAPE_LEN">4065.32708500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">175</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">556458.33265000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">3808.49207600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">176</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">246663.20404000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">2152.14976100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">177</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">233427.91261999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">2245.57382500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">168</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">742497.86098000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">5308.79660800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">169</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">329450.40522999997</SimpleData>
+		<SimpleData name="SHAPE_LEN">3123.40155400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">170</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">100498.93171000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1408.66893600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">173</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">189</SimpleData>
+		<SimpleData name="NM_ZONA">P?LO DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">P?LO-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">217380.65494000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">2237.50443900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">178</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">182</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 - LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">169425.09325999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1731.99603100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">180</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">192</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE TRANSI??O DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZT-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">199178.18429000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2028.63293000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">182</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">182</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 4 - LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-4-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">192685.08843999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">2800.44826700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">183</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">147</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DA LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">SE-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">276485.85629999998</SimpleData>
+		<SimpleData name="SHAPE_LEN">2352.44086900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">185</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">OPERA??O URBANA CONSORCIADA LINHA VERDE</SimpleData>
+		<SimpleData name="CD_ZONA">184</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA INDUSTRIAL - LINHA VERDE</SimpleData>
+		<SimpleData name="SG_ZONA">ZI-LV</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 13909 / 2011</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">700845.04682000005</SimpleData>
+		<SimpleData name="SHAPE_LEN">4264.79558600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">279</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">16</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL CONECTOR</SimpleData>
+		<SimpleData name="SG_ZONA">CONEC-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">242497.79355999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">3169.31980300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">280</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">16</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL CONECTOR</SimpleData>
+		<SimpleData name="SG_ZONA">CONEC-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">265548.88094000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2625.71723800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">281</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">616121.67266000004</SimpleData>
+		<SimpleData name="SHAPE_LEN">5094.75996100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">282</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">29</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL DE HABITA??O DE INTERESSE SOCIAL</SimpleData>
+		<SimpleData name="SG_ZONA">SEHIS</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">840716.47690999997</SimpleData>
+		<SimpleData name="SHAPE_LEN">4951.98346800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">273</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">74746.67586000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">3242.05464500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">274</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">61271.10328000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1836.20724700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">276</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">173195.60610000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2274.91592900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">278</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">116827.09437999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1594.00153300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">285</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">70549.26020999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1451.41978700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">304</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">140497.10767999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">2300.58715500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">309</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="CD_ZONA">23</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="SG_ZONA">Z-CON</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">5195.46339000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">320.34554700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">310</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="CD_ZONA">23</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="SG_ZONA">Z-CON</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">47554.98336000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">3409.02111700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">313</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="CD_ZONA">23</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="SG_ZONA">Z-CON</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">207283.62828000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">2072.72035500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">314</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="CD_ZONA">23</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="SG_ZONA">Z-CON</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">371470.50377000001</SimpleData>
+		<SimpleData name="SHAPE_LEN">4376.32642500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">315</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="CD_ZONA">23</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="SG_ZONA">Z-CON</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">50929.65024000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1178.17713800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">316</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="CD_ZONA">23</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="SG_ZONA">Z-CON</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">337543.87907000002</SimpleData>
+		<SimpleData name="SHAPE_LEN">3613.48872000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">306</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">9736.66255000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">418.63241700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">317</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="CD_ZONA">23</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="SG_ZONA">Z-CON</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">636135.65926999995</SimpleData>
+		<SimpleData name="SHAPE_LEN">4277.09634800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">318</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="CD_ZONA">23</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA DE CONTEN??O</SimpleData>
+		<SimpleData name="SG_ZONA">Z-CON</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">411632.58593000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">3242.19392700000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">289</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">84312.66168999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1399.15615300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">290</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">16</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL CONECTOR</SimpleData>
+		<SimpleData name="SG_ZONA">CONEC-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">43170.51355000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1494.86373000000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">283</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">292862.18072000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">4372.45455600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">284</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1240626.49025000003</SimpleData>
+		<SimpleData name="SHAPE_LEN">18773.41133100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">286</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">75054.09868000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1682.69006300000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">297</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">104491.91961000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1591.32130900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">287</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">115853.74913000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">4149.68969900000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">288</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">4</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 3?</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">3668031.83205999993</SimpleData>
+		<SimpleData name="SHAPE_LEN">8835.87545400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">291</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">SETORES ESPECIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">16</SimpleData>
+		<SimpleData name="NM_ZONA">SETOR ESPECIAL CONECTOR</SimpleData>
+		<SimpleData name="SG_ZONA">CONEC-3</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">205757.05103999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">3522.64043600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">293</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1405674.14177999995</SimpleData>
+		<SimpleData name="SHAPE_LEN">6681.91237400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">299</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">73450.19551999999</SimpleData>
+		<SimpleData name="SHAPE_LEN">1317.32754500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">300</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">17191.57654000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">547.27246200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">301</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">24953.44542000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">822.47782500000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">305</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">3</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 2??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-2</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">31400680.73209999874</SimpleData>
+		<SimpleData name="SHAPE_LEN">66628.06760200000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">307</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">29141.09227000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">765.38135100000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">308</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">?REA DE PROTE??O AMBIENTAL DO PASSA?NA</SimpleData>
+		<SimpleData name="NM_ZONA">APA DO PASSA?NA</SimpleData>
+		<SimpleData name="SG_ZONA">APA-PASSA?NA</SimpleData>
+		<SimpleData name="LEGISLACAO">DECRETO EST N? 458 / 1991 - LEI N? 9800 / 2000 - LEI EST N? 13027 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">38647588.41640000045</SimpleData>
+		<SimpleData name="SHAPE_LEN">68937.67193500001</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">294</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">2</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 1??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">1463480.74762000004</SimpleData>
+		<SimpleData name="SHAPE_LEN">6731.37849800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">295</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">ZONAS RESIDENCIAIS</SimpleData>
+		<SimpleData name="CD_ZONA">2</SimpleData>
+		<SimpleData name="NM_ZONA">ZONA RESIDENCIAL 1??</SimpleData>
+		<SimpleData name="SG_ZONA">ZR-1</SimpleData>
+		<SimpleData name="LEGISLACAO">LEI N? 9800 / 2000</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">804656.94622000004</SimpleData>
+		<SimpleData name="SHAPE_LEN">6454.88022400000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">298</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">415804.79249999998</SimpleData>
+		<SimpleData name="SHAPE_LEN">5970.20655600000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ZONEAMENTO_2015">
+		<SimpleData name="OBJECTID">303</SimpleData>
+		<SimpleData name="TEMA">ZONEAMENTO</SimpleData>
+		<SimpleData name="NM_GRUPO">UNIDADE DE CONSERVA??O</SimpleData>
+		<SimpleData name="CD_ZONA">35</SimpleData>
+		<SimpleData name="NM_ZONA">PARQUES E BOSQUES</SimpleData>
+		<SimpleData name="SG_ZONA">UC</SimpleData>
+		<SimpleData name="DATA_ATUAL">2011-12</SimpleData>
+		<SimpleData name="DATA_VERSA">2015-11</SimpleData>
+		<SimpleData name="SHAPE_AREA">59631.31294000000</SimpleData>
+		<SimpleData name="SHAPE_LEN">1311.41361800000</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+</Folder>
+</Document></kml>
